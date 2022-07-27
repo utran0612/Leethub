@@ -7,3 +7,6 @@
 - Swift
 - RESTful API
 - MapView and CoreLocation
+- Parse (as backend)
+### Note
+- There are few commits because I didn't know about Git back then, so I just coded and committed them all at once.
